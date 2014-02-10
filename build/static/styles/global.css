@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+.leftcol {
+	float:left;
+    margin:0px 15px;
+}
+
+.rightcol {
+    margin:0px 20px;
+}
+
+h1 {
+    text-align:center;
+    margin:30px 0px;
+    /** change font **/
+}
+
+#footerdiv {
+	float:right;
+	text-align:center;
+	padding-right:300px;
+	color: #797979;
+	font-family: Verdana, Arial;
+	font-size: 75%;
+}
+
+table#wrappertable {
+	background-color:black;
+}
+
+#wrapperbox {
+	/** background-color:black; **/
+	/** center this with some extra space **/
+}
+
+.mainbox {
+}
+
+#headerbar {
+	text-align:center;
+}
+
+#navbar img {
+}
+
+#navbar {
+	border:0px solid #FFF;
+	text-shadow:1px 1px 1px #000;
+}
+
+.navbar_item {
+	float:left;
+}
+
+#navbar ul{
+	list-style:none inside none;
+	text-align:center;
+	background-color:gray;
+	padding-left: 15px;
+	padding-right: 15px;
+	width:112px;
+	margin-top:-2px;
+	margin-left:-1px;
+	display:none;
+	z-index:999;
+	position:absolute;
+}
+
+#navbar ul li a{
+	font-size:14px;
+	height:40px;
+	color:white;
+	display:block;
+    padding-top:20px;
+	text-decoration:none;
+}
+
+#navbar ul li a#twoline{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#navbar ul li a:hover{
+	background-color:LightGray;
+	color:black;
+	text-shadow:none;
+    margin-left:-15px;
+    margin-right:-15px;
+}
+
+a {
+	color:LightGray;
+	text-decoration: none;
+}
+
+a:hover {
+    color:white;
+	text-decoration: none;
+}
+
+body {
+	color: #FFFFFF;
+	font-family: Verdana, Arial;
+	font-size: 20px;
+}
+

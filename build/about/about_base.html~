@@ -1,0 +1,5 @@
+{% extends "/base.html" %}
+
+{% block subtitle %} - About {% endblock %}
+
+{% block bgcolor %}{% endblock %}

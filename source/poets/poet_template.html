@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block bgcolor %}0C6F8F{% endblock %}
+
+{% block content %}
+
+<h1> {% block name %}{% endblock %} </h1>
+
+<div class="leftcol">
+    <p>
+        <img width="300px" src="{% block photo %}{% endblock %}">
+    </p>
+    <br/>
+    <p>
+        Poems by {{self.name()}}:</br>
+        {% block poems %}{% endblock %}
+    </p>
+    <br/>
+    <p style="margin:25pxpx 0px;">
+        Poetry Center Readings:</br>
+        {% block readings %}{% endblock %}
+    </p>
+</div>
+
+<div class="rightcol">
+    <p>{% block bio %}{% endblock %}</p>
+</div>
+
+{% endblock %}

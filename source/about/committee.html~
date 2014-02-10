@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1> Poetry Center Committee </h1>
+
+<p>
+<a href="#EDW">Ellen Dore Watson, Director of the Poetry Center</a><br/>
+Annie Boutelle, Founder of the Poetry Center<br/>
+Cornelia Pearsall, Committee Chair (English Language & Literature)<br/>
+Kevin Quashie, Director of the Poetry Concentration (Afro-American Studies)<br/>
+<br/>
+Other names etc.
+</p>
+
+<div class="leftcol">
+    <h2 id="EDW"> Ellen Dore Watson, Director</h2>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+Ellen Dore Watson is the author of five books of poems, including We Live in Bodies and Ladder Music, winner of the New England/New York award from Alice James Books, This Sharpening, and most recently, Dogged Hearts. 
+</div>
+{% endblock %}

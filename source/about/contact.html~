@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1> Contact Us </h1>
+
+<p>
+Poetry Center Office<br/>
+Jennifer Blackburn, Administrative Assistant<br/>
+Wright Hall 102<br/>
+Smith College<br/>
+Northampton, MA 01063<br/>
+<br/>
+Phone: 413-585-4891<br/>
+Fax: 413-585-3339<br/>
+jblackbu@smith.edu<br/>
+<br/>
+Ellen Dore Watson<br/>
+Wrignt Hall 211
+Smith College<br/>
+Northampton, MA 01063<br/>
+<br/>
+Phone: 413-585-3368<br/>
+ewatson@smith.edu
+<br/>
+<br/>
+<a href="http://www.smith.edu/about_visit_directions.php">Directions to the college</a>
+</p>
+{% endblock %}

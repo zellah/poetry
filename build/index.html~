@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="flexslider">
+				  <ul class="slides">
+				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index1.jpg" /></li>
+				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index2.jpg" /></li>
+				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index3.jpg" /></li>
+				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index4.jpg" /></li>
+				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index5.jpg" /></li>
+				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index6.jpg" /></li>
+				  </ul>
+				</div>
+{% endblock %}

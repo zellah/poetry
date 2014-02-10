@@ -1,0 +1,19 @@
+{% extends "poets/poet_template.html" %}
+
+{% block name %}Meena Alexander{% endblock %}
+
+{% block photo %}http://smith.edu/poetrycenter/poets/malexander.jpg{% endblock %}
+
+{% block bio %}
+<b>Meena Alexander</b> has called herself a “woman cracked by multiple migrations.” Born in India, raised in Sudan, educated in England, and currently a resident of New York City, she has drawn on experiences of trauma, exile, conflicting identity, and the customs of four continents to produce eight books of poetry, a memoir, and two novels. As she has said, “All my writing is haunted by place, the loss of it, the constantly shifting ‘I’ that tries to find a place in which to be.” Alexander’s “I” finds place in her gift of evocation, in its power to coax life out of a rock and to construct a sanctuary from a single memory. In Maxine Hong Kingston’s words, “Her voice guides us far away and back home. Her reader sees her visions and remembers and is uplifted.” 
+{% endblock %}
+
+{% block poems %}
+Poem One<br/>
+Poem Two<br/>
+Poem Five
+{% endblock %}
+
+{% block readings %}
+<a href="http://smith.edu/poetrycenter/New%20Site/Reading%20Page/readings-page-final-plan.html">Spring 2014</a>
+{% endblock %}
