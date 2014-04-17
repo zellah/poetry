@@ -5,7 +5,6 @@ http://0.0.0.0:8080/about/donations.html
 http://0.0.0.0:8080/about/history.html
 http://0.0.0.0:8080/about/staff.html
 http://0.0.0.0:8080/gallery/audio.html
-http://0.0.0.0:8080/gallery/broadsides.html
 http://0.0.0.0:8080/gallery/video.html
 http://0.0.0.0:8080/outreach/action.html
 http://0.0.0.0:8080/outreach/links.html

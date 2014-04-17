@@ -1,23 +1,311 @@
 {% extends "base.html" %}
 
+{% block bgcolor %}6C63BC{% endblock %}
+
 {% block content %}
 
 <h1> Poetry Center Committee </h1>
 
 <p>
-<a href="#EDW">Ellen Dore Watson, Director of the Poetry Center</a><br/>
-Annie Boutelle, Founder of the Poetry Center<br/>
-Cornelia Pearsall, Committee Chair (English Language & Literature)<br/>
-Kevin Quashie, Director of the Poetry Concentration (Afro-American Studies)<br/>
 <br/>
-Other names etc.
+<a href="#EDW">Ellen Doré Watson, Director of the Poetry Center</a>
+<br/>
+<a href="#AB">Annie Boutelle, Founder of the Poetry Center</a>
+<br/>
+Cornelia Pearsall, Committee Chair (English Language & Literature)
+<br/>
+<a href="#KQ">Kevin Quashie, Director if the Poetry Concentration (Afro-American Studies)</a>
+<br/>
+<a href="#RC">Rosetta Cohen (Education & Child Study; Director of the Kahn Institute)</a>
+<br/>
+<a href="#PG">Peter Gregory (Religion; East Asian Studies)</a>
+<br/>
+Maria Estela Harretche (Spanish & Portuguese; Latin American Studies)
+<br/>
+Joan Larkin, Grace Hazard Conkling Visiting Poet (2012-2014)
+<br/>
+<a href="#TP">Thalia Pandira (Classics; Comparative Literature)</a>
+<br/>
+<a href="#MT">Michael Thurston (English Language & Literature; American Studies)</a>
+<br/>
+<a href="#SW">Sujane Wu (East Asian Languages & Cultures; East Asian Studies)</a>
+<br/>
+Liliana Farrell, ’13, intern (Fall 2011- Spring 2013)
+<br/>
+Janan Scott, ’13, intern (Fall 2011- Spring 2013)
+<br/><br/>
+<b>Past Committee Members</b>
+<br/>
+Robert Averitt, Economics
+<br/>
+Margaret Bruzelius, Class Dean, Comparative Literature
+<br/>
+Sharon Seelig, English Languages & Literatures
+<br/>
+Susan Van Dyne, Program for the Study of Women and Gender
 </p>
 
+
 <div class="leftcol">
-    <h2 id="EDW"> Ellen Dore Watson, Director</h2>
+    <h3 id="EDW">Ellen Doré Watson</h3>
     <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
 </div>
 <div class="rightcol" style="margin:40px 10px;">
-Ellen Dore Watson is the author of five books of poems, including We Live in Bodies and Ladder Music, winner of the New England/New York award from Alice James Books, This Sharpening, and most recently, Dogged Hearts. 
+Ellen Doré Watson is the author of five books of poems, including We Live in Bodies 
+
+and Ladder Music, winner of the New England/New York award form Alice James 
+
+Books, This Sharpening, and, most recently, Dogged Hearts. She has published 
+
+individual poems widely in literary journals, including The American Poetry Review, 
+
+Tin House, and The New Yorker. Her awards and honors include a Massachusetts 
+
+Cultural Council Artists Grant, the Rona Jaffe Writers Award, Fellowships from the 
+
+MacDowell Colony and the Vermont Studio Center, and a National Endowment for the 
+
+Arts Translation Fellowship. Watson has translated a dozen books from the Brazilian 
+
+Portuguese, including The Alphabet in the Park: Selected Poems of Adélia Prado, and 
+
+has co-translated contemporary Arabic language poetry with Saadi Simawe. In addition 
+
+to directing the Poetry Center, she leads writing workshops in the community, serves as 
+
+Poetry and Translation Editor of the Massachusetts Review, and teaches in the Drew 
+
+University Low-Res MFA Program in Poetry and Translation.
+
+“I’ve never forgotten reading about a little girl who said that the pictures on the radio 
+
+were so much more beautiful than the pictures on TV. Yes! Poems are radio in an age 
+
+of TV. Reading poems on the page, listening to poems out loud, we are the place their 
+
+meaning is made, their sound is heard, their intentions are imagined--and their beauty 
+
+and terror come into our bodies. Poetry is good food.”
+
+
+<br/><br/>
+<div class="leftcol">
+    <h3 id="AB">Annie Boutelle</h3>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+Born in Scotland, Annie Boutelle was educated at the University of St. Andrews and
+
+New York University. She has taught in the Smith English Department since 1984. 
+
+Author of Thistle and Rose: A Study of Hugh MacDiarmid’s Poetry and numerous 
+
+essays on scholarly and popular topics, she has also published two books of poems, 
+
+Becoming Bone: Poems on the Life of Celia Thaxter and Nest of Thistles. Founder 
+
+of the Poetry Center at Smith, she devotes much of her time to writing and promoting 
+
+poetry.
+
+“Starting up the Poetry Center at Smith was not something I had planned to do, and yet 
+
+when I look back, I can see that it fits perfectly with some of my earliest and strongest 
+
+impulses. As a child, I loved poetry and I wrote it passionately during my teenage years. 
+
+My Ph.D. thesis focused on the work of a great twentieth century Scottish poet, and 
+
+almost al of my teaching here at Smith has focused on helping my students discover 
+
+what makes language come alive. The 1996 proposal to establish a Poetry Center 
+
+at Smith must surely have had something to do with the fact that I had, eight months 
+
+earlier, launched myself on a project of writing a sequence of poems based on the life 
+
+of Celia Thaxter, one of the most popular poets in nineteenth-century America. Since 
+
+then, I’ve plunged into this life of writing and promoting poetry, and I feel as if I’ve come 
+
+home. I’ve never been happier.”
+</div>
+
+
+<br/><br/>
+<div class="leftcol">
+    <h3 id="KQ">Kevin Quashie</h3>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+kevin everod quashie was born and raised in st. kitts in the caribbean. he teaches
+
+cultural studies and theory in the department of afro-american studies, and has a book 
+
+frthcoming from rutgers university press (fall 03) titled “black women, identity, and 
+
+cultural theory: (un)becoming the subject.” “there is, after all, no life, no living, without 
+
+love. and poetry is love-full--lush, complicated, soothing, propelling me forth beyond 
+
+edges, giving me the necessary pause.” 
+</div>
+
+
+<br/><br/>
+<div class="leftcol">
+    <h3 id="RC">Rosetta Cohen</h3>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+Rosetta Marantz Cohen received her BA in English from Yale University, an MFA
+
+in Poetry from Columbia University, and an EdM and EdD from Teachers College, 
+
+Columbia. She teaches courses in the history and philosophy of education, and in 
+
+American Studies. She is the author of four books in the field education, dealing with the 
+
+history of the teaching profession and with the problems of school reform. She is also 
+
+the author of a volume of poetry entitled Domestic Scenes. Her poetry has appeared 
+
+most recently in Feminist Studies. Currently, she is working on an ethnography of an 
+
+urban high school and a book-length poem on high school life.
+</div>
+
+
+<br/><br/>
+<div class="leftcol">
+    <h3 id="PG">Peter Gregory</h3>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+Peter N. Gregory joined the faculty at Smith College as the Jill Ker Conway Professor
+
+of Religion and East Asian Languages and Civilizations from Harvard University on 
+
+1981, he taught in the Program for the Study of Religion at the University of Illinois 
+
+for fifteen years. He has also served as the President and Executive Director of the 
+
+Kuroda Institute for the Study of Buddhism and Human Values since 1984, and in that 
+
+capacity he has directed two publication series with the University of Hawaii Press: 
+
+“Studies in East Asian Buddhism” and “Classics in East Asian Buddhism.” His research 
+
+has focused on medieval Chinese Buddhism, especially the Chan (Zen) and Huayan 
+
+traditions during the Tang and Song dynasties, on which he has written or edited seven 
+
+books, including Tsung-mi and the Sinification of Buddhism (1991). He is currently 
+
+completing a translation and study of a ninth-century Chinese Buddhism text on the 
+
+historical and doctrinal origins of the Chan tradition. Since coming to Smith, his research 
+
+and teaching have become increasingly concerned with Buddhism in America, and he 
+
+has recently coedited Women Practicing Buddhism: American Experiences, which was 
+
+published by Wisdom Publications in the fall of 2007. His interest in Chinese Buddhism 
+
+and Zen was originally awakened by reading R.H. Blythe’s wonderful translations of 
+
+Japanese Haiku and Gary Snyder’s crisp translations of Han-shan’s poems.
+</div>
+
+
+<br/><br/>
+<div class="leftcol">
+    <h3 id="TP">Thalia Pandira</h3>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+Thalia Pandiri holds a bachelor of arts from the City College of New York and a master 
+
+of arts and doctorate from Columbia University. She studies at the Free University of 
+
+Berlin and is a fellow of the American Academy of Rome.
+
+Pandiri has published critical work and translations in the areas of ancient and modern 
+
+drama.
+
+She is editor-in-chief of the literary translation journal METAMORPHOSES. Her special 
+
+interests include translation studies and maternal filicide. 
+</div>
+
+
+<br/><br/>
+<div class="leftcol">
+    <h3 id="MT">Michael Thurston</h3>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+Michael Thurston grew up in the midwest and in Texas. He majored in English and
+
+history as an undergraduate and took the M.A. and Ph.D. at the University of Illinois. 
+
+After five years on the faculty at yale, he joined the English department at Smith in 
+
+2000. Michael is the author of Making Something Happen: American Political Poetry 
+
+Between the World Wars (University of North Carolina Press, 2001), and co-editor of 
+
+Modernism, Inc.: Body, Memory, Capital (New York University Press, 2001). He has 
+
+published essays on Langston Hughes, Muriel Rukeyser, Ernest Hemingway, Robert 
+
+Lowell, and Eavan Boland, as well as numerous book reviews in Yale Review, Kenyon 
+
+Review, Indiana Review, and other magazines. Michael teaches courses on American 
+
+Literature, especially poetry, and on modern and contemporary British and Irish poetry.
+
+“With its roots in song, poetry involves not only the mind and emotions but also the 
+
+body. That complicated and complete involvement makes it, to me, wonderfully inviting 
+
+and satisfying, whether the poem is ‘Ode on a Grecian Urn’ or ‘Anarchy in the U.K.’”
+</div>
+
+
+<br/><br/>
+<div class="leftcol">
+    <h3 id="SW">Sujane Wu</h3>
+    <img width=150 src="http://smith.edu/poetrycenter/poets/malexander.jpg">
+</div>
+<div class="rightcol" style="margin:40px 10px;">
+Born in Taiwan, Sujane Wu came to the United States in 1988 to study, and in 2005
+
+joined the faculty here at Smith, where she teaches courses on traditional Chinese 
+
+literature, culture, and language, as well as all levels of mandarin Chinese. Her literature 
+
+and culture courses include The Culture of the Lyric in Traditional China ( EAL 231 ), 
+
+Chinese Poetry and the Other Arts ( EAL 237 ), Chinese Travel Writing ( EAL 233), 
+
+a seminar on the most famous Chinese novel, Dream of the Red Chamber [Honglou 
+
+meng] (EAL 360), and a Presidential Seminar, Revising the Past in Chinese Literature 
+
+and Film (PRS 316). Her research focuses primarily on the medieval Chinese poetry.
+
+For more than two decades, Wu has been studying, performing and writing extensively 
+
+about traditional Chinese poetry. One of her primary scholarly interests has been to 
+
+reconstruct poems in musical performance, which she has come to see as necessary to 
+
+a full appreciation of the poems themselves as well as the people who wrote and who 
+
+listened to them. She has given musical performances of Chinese poetry in the United 
+
+States as well as in Taiwan.
 </div>
 {% endblock %}

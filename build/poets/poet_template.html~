@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 
+{% block bgcolor %}0C6F8F{% endblock %}
+
 {% block content %}
 
 <h1> {% block name %}{% endblock %} </h1>
