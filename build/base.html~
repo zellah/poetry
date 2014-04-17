@@ -78,7 +78,9 @@
 		<tr class="mainbox">
 			<td id="space" width="86"> </td>
 			<td colspan="6" bgcolor="#{% block bgcolor %}000000{% endblock%}">
+                <div id="content">
 				{% block content %}{% endblock %}
+                </div>
         	</td>
 			<td id="space" width="265"> </td>
 		</tr>

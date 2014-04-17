@@ -1,1 +1,76 @@
-{% extends "/base.html" %
+{% extends "base.html" %}
+
+{% block bgcolor %}915D9D{% endblock %}
+
+{% block head %}
+<script src="/static/scripts/SpryAccordion.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block content %}
+
+<h1>Readings Spring 2014</h1>
+
+<table>
+<td>
+<div id="Accordion1" class="Accordion" tabindex="0">
+    <div class="AccordionPanel">
+        <div class="AccordionPanelTab"><h2>Meena Alexander</h2></div>
+        <div class="AccordionPanelContent">
+            <a href='http://www.smith.edu/poetrycenter/poets/alexander_meena.html'>
+            <img src="/static/images/archives/14_1/alexander_meena.jpg">
+            </a>
+        </div>
+    </div>
+
+
+    <div class="AccordionPanel">
+        <div class="AccordionPanelTab"><h2>Joan Houlihan</h2></div>
+        <div class="AccordionPanelContent">
+            <a href='http://www.smith.edu/poetrycenter/poets/houlihan_joan.html'>
+            <img src="/static/images/archives/14_1/houlihan_joan.jpg">
+            </a>
+        </div>
+    </div>
+
+    <div class="AccordionPanel">
+        <div class="AccordionPanelTab"><h2>James Sacre</h2></div>
+        <div class="AccordionPanelContent">
+            <a href='http://www.smith.edu/poetrycenter/poets/sacre_james.html'>
+            <img src="/static/images/archives/14_1/sacre_james.jpg">
+            </a>
+        </div>
+    </div>
+
+    <div class="AccordionPanel">
+            <div class="AccordionPanelTab"><h2>Peace & Justice</h2></div>
+        <div class="AccordionPanelContent">
+            <img src="/static/images/archives/14_1/peace_justice.jpg">
+        </div>
+    </div>
+
+    <div class="AccordionPanel">
+            <div class="AccordionPanelTab"><h2>Alicia Ostriker</h2></div>
+        <div class="AccordionPanelContent">
+            <a href='http://www.smith.edu/poetrycenter/poets/ostriker_alicia.html'>
+            <img src="/static/images/archives/14_1/ostriker_alicia.jpg">
+            </a>
+        </div>
+    </div>
+
+    <div class="AccordionPanel">
+            <div class="AccordionPanelTab"><h2>Dean Young</h2></div>
+        <div class="AccordionPanelContent">
+            <a href='http://www.smith.edu/poetrycenter/poets/young_dean.html'>
+            <img src="/static/images/archives/14_1/young_dean.jpg">
+            </a>
+        </div>
+    </div>
+
+        
+</table>
+
+<script type="text/javascript">
+	var Accordion1 = new Spry.Widget.Accordion("Accordion1");
+</script>
+
+{% endblock %}

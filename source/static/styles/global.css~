@@ -6,6 +6,7 @@
 
 .leftcol {
 	float:left;
+    margin:0px 15px;
 }
 
 .rightcol {
@@ -105,5 +106,45 @@ body {
 	color: #FFFFFF;
 	font-family: Verdana, Arial;
 	font-size: 20px;
+}
+
+
+.Accordion {
+	border-left: solid 1px #c28fcc;
+	border-right: solid 1px #c28fcc;
+	border-bottom: solid 1px #c28fcc;
+	overflow: hidden;
+	outline: none;
+}
+
+.AccordionPanel {
+	margin: 0px;
+	padding: 0px;
+}
+
+.AccordionPanelTab {
+	background-color: #c28fcc;
+	border-top: solid 1px #c28fcc;
+	border-bottom: solid 1px white;
+	margin: 0px;
+	padding: 0px;
+	cursor: pointer;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+}
+
+.AccordionPanelContent {
+	overflow: visible;
+	margin: 0px;
+	padding: 0px;
+	color: #CCCCCC;
+}
+
+.AccordionPanelOpen .AccordionPanelTab {
+	background-color: #c28fcc;
+}
+
+.AccordionFocused .AccordionPanelTab {
+	background-color: #c28fcc;
 }
 
