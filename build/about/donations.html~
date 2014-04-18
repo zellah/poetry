@@ -4,6 +4,26 @@
 
 {% block content %}
 
+<h1>Donations</h1>
 
+<img src="/static/images/about/couches.jpg">
+
+<h3>Support Our Programming with a Gift of Any Size</h3>
+<br/>
+We’re truly grateful for the enthusiastic expressions of support we enjoy from students, staff, faculty, and poetry folk from all over New England. We strive to keep the reading series lively, current, surprising, and free to the public. Every gift helps one way or another, whether to fund a visit by a far-flung poet, our outreach activities, our video collection, our library, or our extensive student staff. If you share our goals and appreciate our programming, please give generously. We are grateful for gifts of all sizes.
+<br/><br/>
+Credit Card contributions may be made through the 
+<a href="https://www.smith.edu/future/giving/giftform.php">
+Smith College Advancement Office
+</a>
+. Please fill out the contact and gift information, then scroll down to check the box marked "OTHER," and type " POETRY CENTER" in the nearby box marked "PURPOSE OF GIFT."
+<br/><br/>
+Checks (made out to Smith College Poetry Center) may be mailed to:
+The Poetry Center
+c/o Smith College Office of Advancement
+P.O. Box 340029
+Boston, MA 02241-0429
+<br/><br/><br/> 		 
+*For ADDITIONAL INFORMATION about supporting our work, please contact Annie Boutelle, Founder of the Poetry Center - 413-585-3323 or aboutell@smith.edu
 
 {% endblock %}

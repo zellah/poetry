@@ -1,8 +1,12 @@
 {% extends "base.html" %}
 
+{% block bgcolor %}6C63BC{% endblock %}
+
 {% block content %}
 
 <h1> Contact Us </h1>
+
+<img src="/static/images/about/door.png" style="display:block; margin-left: auto; margin-right: auto;">
 
 <p>
 Poetry Center Office<br/>
