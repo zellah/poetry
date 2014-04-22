@@ -10,6 +10,7 @@
 }
 
 .rightcol {
+    float:right;
     margin:0px 20px;
 }
 
@@ -138,6 +139,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	color: #CCCCCC;
+    height:auto;
 }
 
 .AccordionPanelOpen .AccordionPanelTab {

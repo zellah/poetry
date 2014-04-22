@@ -9,7 +9,6 @@ http://0.0.0.0:8080/gallery/broadsides.html
 http://0.0.0.0:8080/gallery/video.html
 http://0.0.0.0:8080/outreach/action.html
 http://0.0.0.0:8080/outreach/links.html
-http://0.0.0.0:8080/outreach/prize.html
 http://0.0.0.0:8080/poets/alumnae.html
 http://0.0.0.0:8080/poets/poet_template.html
 http://0.0.0.0:8080/poets/visiting.html
@@ -17,5 +16,14 @@ http://0.0.0.0:8080/readings/archives.html
 http://0.0.0.0:8080/readings/current_season.html
 http://0.0.0.0:8080/readings/directions.html
 http://0.0.0.0:8080/readings/events.html
+http://0.0.0.0:8080/outreach/archive/2007prize.html
+http://0.0.0.0:8080/outreach/archive/2008prize.html
+http://0.0.0.0:8080/outreach/archive/2010prize.html
+http://0.0.0.0:8080/outreach/archive/2011prize.html
+http://0.0.0.0:8080/outreach/archive/2012prize.html
+http://0.0.0.0:8080/outreach/archive/2013prize.html
+http://0.0.0.0:8080/outreach/archive/209prize.html
+http://0.0.0.0:8080/outreach/archive/index.html
+http://0.0.0.0:8080/outreach/archive/prize_template.html
 http://0.0.0.0:8080/poets/alumnae/meena_alexander.html
 http://0.0.0.0:8080/poets/visiting/meena_alexander.html
