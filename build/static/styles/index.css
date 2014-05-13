@@ -29,7 +29,6 @@ text-decoration: none;
 a:hover, a:focus, a:active {
 color: #932c28;
 border-bottom: 2px solid;
-margin-bottom: -1px;
 }
 
 .✓ {
