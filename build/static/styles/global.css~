@@ -1,9 +1,20 @@
 @charset "utf-8";
 
+.quick {
+    float:left;
+    background-color:#6F65C5;
+}
 
-#broadside td 
-{ 
+.news {
+    float:right;
+}
+
+#broadside td { 
     vertical-align:top;
+}
+
+#broadside td img { 
+    float:right;
 }
 
 #content {
@@ -129,13 +140,18 @@ body {
     line-height:120%
 }
 
-
 .Accordion {
 	border-left: solid 1px #c28fcc;
 	border-right: solid 1px #c28fcc;
 	border-bottom: solid 1px #c28fcc;
 	overflow: hidden;
 	outline: none;
+}
+
+.NewsAccordion {
+	border-left: solid 1px #000000;
+	border-right: solid 1px #000000;
+	border-bottom: solid 1px #000000;
 }
 
 .AccordionPanel {
@@ -152,6 +168,12 @@ body {
 	cursor: pointer;
 	-moz-user-select: none;
 	-khtml-user-select: none;
+}
+
+.NewsAccordionPanelTab {
+	background-color: #000000;
+	border-top: solid 1px #000000;
+	border-bottom: solid 1px #000000;
 }
 
 .AccordionPanelContent {

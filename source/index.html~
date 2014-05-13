@@ -1,14 +1,54 @@
 {% extends "base.html" %}
 
+{% block head %}
+<script src="/static/scripts/SpryAccordion.js" type="text/javascript"></script>
+{% endblock %}
+
 {% block content %}
 <div class="flexslider">
-				  <ul class="slides">
-				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index1.jpg" /></li>
-				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index2.jpg" /></li>
-				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index3.jpg" /></li>
-				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index4.jpg" /></li>
-				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index5.jpg" /></li>
-				    <li><img src="http://www.smith.edu/poetrycenter/New%20Site/Main%20Pagev2/index6.jpg" /></li>
-				  </ul>
-				</div>
+    <ul class="slides">
+	    <li><img src="/static/images/index1.jpg"/></li>
+		<li><img src="/static/images/index2.jpg"/></li>
+		<li><img src="/static/images/index3.jpg"/></li>
+		<li><img src="/static/images/index4.jpg"/></li>
+		<li><img src="/static/images/index5.jpg"/></li>
+		<li><img src="/static/images/index6.jpg"/></li>
+	</ul>
+</div>
+
+<table width=250 class="quick" cellpadding=15 id="invert">
+    <th>
+    <h3>Quick Links</h3>
+    </th>
+    <tr><td><a href="/readings/current.html">Smith Poetry Series</a></td></tr>
+    <tr><td><a href="/readings/events.html">Local Events</a></td></tr>
+    <tr><td><a href="/outreach/prize.html">High School Prize</a></td></tr>
+    <tr><td><a href="http://www.smith.edu/poetry/">Poetry Concentration</a></td></tr>
+    <tr><td><a href="/poets/alumnae.html">Alumnae Poets</a></td></tr>
+    <tr><td><a href="/about/donations.html">Make a Donation</a></td></tr>
+</table>
+
+<table width=598 class="news" cellpadding=15>
+    <th style="background-color:#D8D8D8">
+    <img src="/static/images/news-and-events-title.gif">
+    </th>
+    <tr><td>
+    <div id="Accordion1" class="Accordion NewsAccordion" tabindex="0">
+        <div class="AccordionPanel">
+            <div class="AccordionPanelTab NewsAccordionPanelTab"><h2>New Website!</h2></div>
+            <div class="AccordionPanelContent">
+                We're proud to announce a new website design. Please bear with us as we work out all the bugs.
+            </div>
+        </div>
+
+        <div class="AccordionPanel">
+            <div class="AccordionPanelTab NewsAccordionPanelTab"><h2>Dean Young reads at Smith</h2></div>
+            <div class="AccordionPanelContent">
+                Tuesday, April 29 at7:30pm Dean Young will read at Smith in Weinstein Auditorium.
+            </div>
+        </div>
+    </div>
+    </td></tr>
+</table>
+
 {% endblock %}
